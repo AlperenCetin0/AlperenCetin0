@@ -1,4 +1,4 @@
-#👋 Hello there, I'm Alperen
+##👋 Hello, I'm Alperen.
 
 
 ## 🌐 Socials:
