@@ -1,4 +1,6 @@
-###### 👋 Hello, I'm Alperen.
+# Hello there 
+# My name is Alperen Cetin.
+#### Pronouns: he/him 
 
 
 ## 🌐 Socials:
