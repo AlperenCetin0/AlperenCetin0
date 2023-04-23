@@ -10,8 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=AlperenCetin0&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-![](https://github-profile-trophy.vercel.app/?username=AlperenCetin0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
