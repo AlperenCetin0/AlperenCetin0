@@ -12,7 +12,6 @@
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/alperencetin0/alperencetin0/main.yml?label=action&style=flat-square)](https://github.com/AlperenCetin0/AlperenCetin0/actions/workflows/main.yml)
 
 
 
